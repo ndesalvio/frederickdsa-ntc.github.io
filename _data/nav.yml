@@ -6,9 +6,6 @@ header:
   - title: "Get Involved"
     url: "/get-involved/"
     description: "Check out what DSA Chapter is working on. Join DSA!"
-  - title: "Events Calendar"
-    url: "/calendar/"
-    description: "Chapter Events Calendar"
 
 # footer links
 footer:
