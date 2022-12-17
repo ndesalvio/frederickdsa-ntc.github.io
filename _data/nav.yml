@@ -1,8 +1,8 @@
 # header links
 header:
-  - title: "Statements"
-    url: "/blog/"
-    description: "Link to DSA Chapter's Chapter Statements"
+  - title: "Our Work"
+    url: "/our-work/"
+    description: "Learn about this DSA Chapter's work."
   - title: "Get Involved"
     url: "/get-involved/"
     description: "Check out what DSA Chapter is working on. Join DSA!"
